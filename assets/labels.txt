@@ -1,0 +1,5 @@
+0 Chihuahua
+1 BloodHound
+2 Dobberman
+3 Malamute
+4 French Bulldog
